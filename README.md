@@ -21,3 +21,4 @@ Installation process and Execution First, If you'are using Linux-based-OS, open 
  Install postman, that helps you to develop APIs and getting responses from it, by writing the following commands on your terminal.
  
  ```sudo apt-get install snap $ snap install postman```
+ 
